@@ -36,5 +36,4 @@ I also added my own project description and comments to the code.
 I am confident that this project will equip you with the skills to create amazing websites with React and CSS.
 
 Please feel free to contact me if you have any questions.
-![Capture d’écran (158)](https://github.com/StephenZAST/javascript/assets/160651813/ee674688-4c85-4597-ba36-a9cd4a3ca18f)
 
