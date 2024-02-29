@@ -36,5 +36,3 @@ I also added my own project description and comments to the code.
 I am confident that this project will equip you with the skills to create amazing websites with React and CSS.
 
 Please feel free to contact me if you have any questions.
-
-https://github.com/StephenZAST/javascript/blob/main/public/logo512.png
