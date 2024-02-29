@@ -3,21 +3,37 @@
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Project description
+Title: Modern UI/UX GPT-3
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+Objective: Learn how to create a modern, responsive website using React and CSS.
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+Prerequisites:
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+Have basic knowledge of HTML and CSS
+Be familiar with using a code editor
+Have a Node.js installation
+What you will learn:
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+React Functional components and their reusability
+React file and folder structure
+Fundamental CSS properties to master flex & grid
+BEM CSS Model Fundamentals
+Create smooth, pleasing animations and complex gradients
+Manage multimedia queries for optimal responsiveness
+Deploy your website on a server and give it a custom domain name
+This project is ideal for:
+
+Beginners who want to learn how to build websites with React and CSS
+Developers looking to improve their React and CSS skills
+Anyone who wants to create a modern, responsive website
+Link to video tutorial: [Link to YouTube video]
+
+Remarks:
+
+This project is based on the youtube video tutorial from [JavaScript Mastery].
+I reproduced the code from the tutorial and modified it to suit my needs.
+I also added my own project description and comments to the code.
+I am confident that this project will equip you with the skills to create amazing websites with React and CSS.
+
+Please feel free to contact me if you have any questions.
